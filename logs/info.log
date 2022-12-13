@@ -1,0 +1,175 @@
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : failed"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : failed"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : failed"}
+{"level":"info","message":"Test Case Started : @API getUsers"}
+{"level":"info","message":"Test Case Completed : @API getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : @API postUsers"}
+{"level":"info","message":"Test Case Completed : @API postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Smoke Verify Follow Us Facebook new window."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Address Details"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Login to Application"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify Follow Us Facebook new window. Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Smoke Verify My Personal Information."}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Address Details Status : timedOut"}
+{"level":"info","message":"Test Case Started : Verify User Login."}
+{"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
+{"level":"error","message":"File not found: /Users/gaurabhchakraborty/Documents/playwright-typescript-boilerplate/html-report"}
