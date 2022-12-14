@@ -173,3 +173,75 @@
 {"level":"info","message":"Test Case Completed : @Smoke Verify My Personal Information. Status : timedOut"}
 {"level":"info","message":"Test Case Completed : Verify User Login. Status : timedOut"}
 {"level":"error","message":"File not found: /Users/gaurabhchakraborty/Documents/playwright-typescript-boilerplate/html-report"}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : timedOut"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : timedOut"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Started : Login to PHP travels."}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : interrupted"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : interrupted"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : interrupted"}
+{"level":"info","message":"Test Case Completed : Login to PHP travels. Status : interrupted"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : timedOut"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : timedOut"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : passed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : passed"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : passed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : passed"}
+{"level":"info","message":"Test Case Started : Getting started"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Personal Information."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Personal Information. Status : failed"}
+{"level":"info","message":"Test Case Completed : Getting started Status : passed"}

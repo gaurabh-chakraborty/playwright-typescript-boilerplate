@@ -1,14 +1,15 @@
-import { PlaywrightTestConfig, devices } from '@playwright/test';
-import { testConfig } from './testConfig';
+import { PlaywrightTestConfig, devices } from "@playwright/test";
+import { testConfig } from "./testConfig";
 const ENV = process.env.ENV;
 
 if (!ENV || ![`qa`, `dev`, `qaApi`, `devApi`].includes(ENV)) {
-  console.log(`Please provide a correct environment value like "npx cross-env ENV=qa|dev|qaApi|devApi"`);
+  console.log(
+    `Please provide a correct environment value like "npx cross-env ENV=qa|dev|qaApi|devApi"`
+  );
   process.exit();
 }
 
 const config: PlaywrightTestConfig = {
-
   //Global Setup to run before all tests
   globalSetup: `./global-setup`,
 
@@ -22,7 +23,11 @@ const config: PlaywrightTestConfig = {
   retries: 0,
 
   //Reporters
-  reporter: [[`./CustomReporterConfig.ts`], [`experimental-allure-playwright`], [`html`, { outputFolder: 'html-report', open: 'never' }]],
+  reporter: [
+    [`./CustomReporterConfig.ts`],
+    [`experimental-allure-playwright`],
+    [`html`, { outputFolder: "html-report", open: "never" }],
+  ],
 
   projects: [
     {
@@ -38,7 +43,7 @@ const config: PlaywrightTestConfig = {
         baseURL: testConfig[process.env.ENV],
 
         //Browser Mode
-        headless: true,
+        headless: false,
 
         //Browser height and width
         viewport: { width: 1500, height: 730 },
@@ -54,8 +59,8 @@ const config: PlaywrightTestConfig = {
 
         //Slows down execution by ms
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
     {
@@ -71,8 +76,8 @@ const config: PlaywrightTestConfig = {
         video: `retain-on-failure`,
         trace: `retain-on-failure`,
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
 
@@ -89,8 +94,8 @@ const config: PlaywrightTestConfig = {
         video: `retain-on-failure`,
         trace: `retain-on-failure`,
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
 
@@ -108,8 +113,8 @@ const config: PlaywrightTestConfig = {
         video: `retain-on-failure`,
         trace: `retain-on-failure`,
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
     {
@@ -125,8 +130,8 @@ const config: PlaywrightTestConfig = {
         video: `retain-on-failure`,
         trace: `retain-on-failure`,
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
     {
@@ -143,19 +148,19 @@ const config: PlaywrightTestConfig = {
         video: `retain-on-failure`,
         trace: `retain-on-failure`,
         launchOptions: {
-          slowMo: 0
-        }
+          slowMo: 0,
+        },
       },
     },
     {
-      name: `DB`
+      name: `DB`,
     },
     {
       name: `API`,
       use: {
-        baseURL: testConfig[process.env.ENV]
-      }
-    }
+        baseURL: testConfig[process.env.ENV],
+      },
+    },
   ],
 };
 export default config;
