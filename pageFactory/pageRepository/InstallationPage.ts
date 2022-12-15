@@ -21,16 +21,60 @@ export class InstallationPage extends InstallationPageObjects {
       "Installation"
     );
   }
-  //   async InstallationGuideWidget(): Promise<void> {
-  //     await webActions.clickElement(GettingStartedPageObjects.InstallationGuide);
-  //   }
+  async ExpoLink(): Promise<void> {
+    await webActions.clickElement(InstallationPageObjects.ExpoLink);
+    await expect(this.page).toHaveURL(
+      "https://docs.expo.dev/get-started/installation/"
+    );
+  }
 
-  //   async VerifyInstallationTitle(): Promise<void> {
-  //     await webActions.verifyElementText(
-  //       GettingStartedPageObjects.InstallationTitle,
-  //       "Installation"
-  //     );
-  //   }
+  async ReactNativeWebLink(): Promise<void> {
+    await webActions.clickElement(InstallationPageObjects.ReactNativeWebLink);
+    await expect(this.page).toHaveURL(
+      "https://necolas.github.io/react-native-web/"
+    );
+  }
+
+  async NativeBaseVSCodeExtensionsLink(): Promise<void> {
+    await webActions.clickElement(
+      InstallationPageObjects.NativeBaseVSCodeExtensionsLink
+    );
+    await expect(this.page).toHaveURL(
+      "https://marketplace.visualstudio.com/items?itemName=NativeBase.nativebase-v3-vscode-extension"
+    );
+  }
+
+  async InstallInExpoProjectButton(): Promise<void> {
+    await webActions.clickElement(
+      InstallationPageObjects.InstallInExpoProjectButton
+    );
+    await expect(this.page).toHaveURL(
+      "https://docs.nativebase.io/install-expo"
+    );
+  }
+
+  //previous Button
+  async PreviousButton(): Promise<void> {
+    await webActions.clickElement(InstallationPageObjects.PreviousButton);
+    await expect(this.page).toHaveURL(
+      "https://docs.nativebase.io/getting-started"
+    );
+  }
+
+  //Next Button
+  async NextButton(): Promise<void> {
+    await webActions.clickElement(InstallationPageObjects.NextButton);
+    await expect(this.page).toHaveURL(
+      "https://docs.nativebase.io/setup-provider"
+    );
+  }
+
+  //    async VerifyInstallationTitle(): Promise<void> {
+  //       await webActions.verifyElementText(
+  //          GettingStartedPageObjects.InstallationTitle,
+  //          "Installation"
+  //       );
+  //     }
   //   async PlaygroundWidget(): Promise<void> {
   //     await webActions.clickElement(GettingStartedPageObjects.Playground);
   //     await expect(this.page).toHaveURL(

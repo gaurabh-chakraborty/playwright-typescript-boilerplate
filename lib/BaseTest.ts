@@ -68,6 +68,6 @@ const test = baseTest.extend<{
         await use(new StickyHeader(page));
     }
 >>>>>>> e180b4f1c165114bd023405dac3c8d577f6e9a05
-});
+ });
 
 export default test;
