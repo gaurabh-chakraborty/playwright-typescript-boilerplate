@@ -5,13 +5,15 @@ import { MyAccountPage } from "@pages/MyAccountPage";
 import { MyAddressesPage } from "@pages/MyAddressesPage";
 import { MyPersonalInformationPage } from "@pages/MyPersonalInformationPage";
 import { GettingstartedPage } from "@pages/GettingStartedPage";
+import { InstallationPage } from "@pages/InstallationPage";
 
 const test = baseTest.extend<{
   loginPage: LoginPage;
   myAccountPage: MyAccountPage;
   myAddressesPage: MyAddressesPage;
   myPersonalInformationPage: MyPersonalInformationPage;
-  gettingStartedpage: GettingstartedPage;
+  gettingStartedPage: GettingstartedPage;
+  installationPage: InstallationPage;
 }>({
   loginPage: async ({ page }, use) => {
     await use(new LoginPage(page));
@@ -25,9 +27,14 @@ const test = baseTest.extend<{
   myPersonalInformationPage: async ({ page }, use) => {
     await use(new MyPersonalInformationPage(page));
   },
-  gettingStartedpage: async ({ page }, use) => {
+  gettingStartedPage: async ({ page }, use) => {
     await use(new GettingstartedPage(page));
   },
+  installationPage: async ({ page }, use) => {
+    await use(new InstallationPage(page));
+  },
+
+
 =======
 import { test as baseTest } from '@playwright/test';
 import { LoginPage } from '@pages/LoginPage';

@@ -1,19 +1,19 @@
 import test from "@lib/BaseTest";
-test(`Getting started`, async ({ gettingStartedpage }) => {
-  await gettingStartedpage.NavigateToURL();
-  await gettingStartedpage.VerifyTitle();
-  await gettingStartedpage.InstallationGuideWidget();
-  await gettingStartedpage.VerifyInstallationTitle();
-  await gettingStartedpage.NavigateToURL();
-  await gettingStartedpage.PlaygroundWidget();
-  await gettingStartedpage.NavigateToURL();
+test(`Getting started`, async ({ gettingStartedPage }) => {
+  await gettingStartedPage.NavigateToURL();
+  await gettingStartedPage.VerifyTitle();
+  await gettingStartedPage.InstallationGuideWidget();
+  await gettingStartedPage.VerifyInstallationTitle();
+  await gettingStartedPage.NavigateToURL();
+  await gettingStartedPage.PlaygroundWidget();
+  await gettingStartedPage.NavigateToURL();
 
-  await gettingStartedpage.ThemingWidget();
-  await gettingStartedpage.VerifyDefaultThemeTitle();
-  await gettingStartedpage.NavigateToURL();
-  await gettingStartedpage.RecipesWidget();
-  await gettingStartedpage.VerifyLoginSignupFormsTitle();
-  await gettingStartedpage.NavigateToURL();
-  await gettingStartedpage.NextButton();
-  await gettingStartedpage.VerifyNextButtonTitle();
+  await gettingStartedPage.ThemingWidget();
+  await gettingStartedPage.VerifyDefaultThemeTitle();
+  await gettingStartedPage.NavigateToURL();
+  await gettingStartedPage.RecipesWidget();
+  await gettingStartedPage.VerifyLoginSignupFormsTitle();
+  await gettingStartedPage.NavigateToURL();
+  await gettingStartedPage.NextButton();
+  await gettingStartedPage.VerifyNextButtonTitle();
 });
