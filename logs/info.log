@@ -254,3 +254,66 @@
 {"level":"error","message":"/Users/krithikj/playwright-typescript-boilerplate/lib/BaseTest.ts: Unexpected token (1:0)\n\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1 |\u001b[39m \u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<\u001b[39m \u001b[33mHEAD\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m \u001b[36mimport\u001b[39m { test \u001b[36mas\u001b[39m baseTest } \u001b[36mfrom\u001b[39m \u001b[32m\"@playwright/test\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mLoginPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/LoginPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mMyAccountPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/MyAccountPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m"}
 {"level":"error","message":"/Users/krithikj/playwright-typescript-boilerplate/lib/BaseTest.ts: Unexpected token (1:0)\n\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1 |\u001b[39m \u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<\u001b[39m \u001b[33mHEAD\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m \u001b[36mimport\u001b[39m { test \u001b[36mas\u001b[39m baseTest } \u001b[36mfrom\u001b[39m \u001b[32m\"@playwright/test\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mLoginPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/LoginPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mMyAccountPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/MyAccountPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m"}
 {"level":"error","message":"=================\n no tests found.\n================="}
+{"level":"error","message":"/Users/krithikj/playwright-typescript-boilerplate/lib/BaseTest.ts: Unexpected token (1:0)\n\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1 |\u001b[39m \u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<\u001b[39m \u001b[33mHEAD\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m \u001b[36mimport\u001b[39m { test \u001b[36mas\u001b[39m baseTest } \u001b[36mfrom\u001b[39m \u001b[32m\"@playwright/test\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mLoginPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/LoginPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mMyAccountPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/MyAccountPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m"}
+{"level":"error","message":"/Users/krithikj/playwright-typescript-boilerplate/lib/BaseTest.ts: Unexpected token (1:0)\n\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1 |\u001b[39m \u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<\u001b[39m \u001b[33mHEAD\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m \u001b[36mimport\u001b[39m { test \u001b[36mas\u001b[39m baseTest } \u001b[36mfrom\u001b[39m \u001b[32m\"@playwright/test\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mLoginPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/LoginPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mMyAccountPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/MyAccountPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m"}
+{"level":"error","message":"=================\n no tests found.\n================="}
+{"level":"error","message":"/Users/krithikj/playwright-typescript-boilerplate/lib/BaseTest.ts: Unexpected token (1:0)\n\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1 |\u001b[39m \u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<<\u001b[39m\u001b[33m<\u001b[39m \u001b[33mHEAD\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m \u001b[36mimport\u001b[39m { test \u001b[36mas\u001b[39m baseTest } \u001b[36mfrom\u001b[39m \u001b[32m\"@playwright/test\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mLoginPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/LoginPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mimport\u001b[39m { \u001b[33mMyAccountPage\u001b[39m } \u001b[36mfrom\u001b[39m \u001b[32m\"@pages/MyAccountPage\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m"}
+{"level":"error","message":"=================\n no tests found.\n================="}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : passed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : passed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : timedOut"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : failed"}
+{"level":"info","message":"Test Case Started : Installation"}
+{"level":"info","message":"Test Case Completed : Installation Status : passed"}
