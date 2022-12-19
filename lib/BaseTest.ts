@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 import { test as baseTest } from "@playwright/test";
 import { LoginPage } from "@pages/LoginPage";
 import { MyAccountPage } from "@pages/MyAccountPage";
 import { MyAddressesPage } from "@pages/MyAddressesPage";
 import { MyPersonalInformationPage } from "@pages/MyPersonalInformationPage";
 import { GettingstartedPage } from "@pages/GettingStartedPage";
+import { StickyHeader } from "@pages/StickyHeader";
 
 const test = baseTest.extend<{
   loginPage: LoginPage;
@@ -12,6 +13,7 @@ const test = baseTest.extend<{
   myAddressesPage: MyAddressesPage;
   myPersonalInformationPage: MyPersonalInformationPage;
   gettingStartedpage: GettingstartedPage;
+  stickyHeader: StickyHeader;
 }>({
   loginPage: async ({ page }, use) => {
     await use(new LoginPage(page));
@@ -28,8 +30,11 @@ const test = baseTest.extend<{
   gettingStartedpage: async ({ page }, use) => {
     await use(new GettingstartedPage(page));
   },
-=======
-import { test as baseTest } from '@playwright/test';
+  stickyHeader: async({page},use)=>{
+    await use(new StickyHeader(page));
+},
+
+/*import { test as baseTest } from '@playwright/test';
 import { LoginPage } from '@pages/LoginPage';
 import { MyAccountPage } from '@pages/MyAccountPage';
 import { MyAddressesPage } from '@pages/MyAddressesPage'
@@ -60,7 +65,8 @@ const test = baseTest.extend<{
     stickyHeader: async({page},use)=>{
         await use(new StickyHeader(page));
     }
->>>>>>> e180b4f1c165114bd023405dac3c8d577f6e9a05
+
+    */
 });
 
 export default test;
