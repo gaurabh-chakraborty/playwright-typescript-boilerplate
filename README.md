@@ -230,17 +230,17 @@ Once logger object is created you can use this instead of console.log in your fr
 ## SonarQube
 
 Once you have completed setup for SonarQube given in Prerequisites section, configure SonarQube as given below
-- Go to the path where sonarqube server(For e.g. : C:\SonarQube\sonarqube-9.1.0.47736) is unzipped -> Go to conf Folder -> open sonar.properties file and add the below prperties and save the file, you can give any port you wish I have used port 9000.
+- Go to the path where sonarqube server(For e.g. : \usr\geekyants\SonarQube\sonarqube-9.1.0.47736) is unzipped -> Go to conf Folder -> open sonar.properties file and add the below properties and save the file, you can give any port you wish I have used port 9000.
 ```JS
-sonar.host.url=http://localhost:9000
+sonar.host.url=http://http://10.45.1.36:9000
 sonar.sourceEncoding=UTF-8
 ```
-- Go to the path where sonarqube server(For e.g. : C:\SonarQube\sonarqube-9.1.0.47736) is unzipped -> Go to bin section -> Go to the folder as per the OS you are using , in my case windows-x86-64 -> Double click on Start Sonar and wait for it to display SonarQube is up (you might encounter some java errors but its fine don't close the terminal).
-- Go to the browser and naigate to http://localhost:9000 , default username is `admin`, default password is `admin`. It might ask you to provide a new password for if you have logged in for first time, I have changed default password to `password`.
+- Go to the path where sonarqube server(For e.g. :  \usr\geekyants\SonarQube\sonarqube-9.1.0.47736) is unzipped -> Go to bin section -> Go to the folder as per the OS you are using, Double click on Start Sonar and wait for it to display SonarQube is up (you might encounter some java errors but its fine don't close the terminal).
+- Go to the browser and naigate to http://10.45.1.36:9000 , register/login with username and password.
 - In your working project (playwright-typescipt-playwright-test), navigate to `sonar-project.properties` file and provide the credentials configured on server webpage username value in `sonar.login` and password in `sonar.password`, in my case username is `admin` and password was changed to `password`.
 ```JS
-sonar.login=admin
-sonar.password=password
+sonar.login=xxxxx
+sonar.password=xxxxx
 ```
 - You can provide any project name in `sonar.projectKey`.
 - Specify a version in `sonar.projectVersion`.
